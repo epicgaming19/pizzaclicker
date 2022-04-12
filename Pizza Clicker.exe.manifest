@@ -1,0 +1,17 @@
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<trustInfo xmlns="urn:schemas-microsoft-com:asm.v3">
+<security>
+<requestedPrivileges>
+<requestedExecutionLevel level="asInvoker" uiAccess="false"></requestedExecutionLevel>
+</requestedPrivileges>
+</security>
+</trustInfo>
+</assembly>
+<!--BEGIN_VBSEDIT_DATA
+PHJvb3Q+DQo8c2NyaXB0bmFtZT5QaXp6YSBDbGlja2VyLmh0bWw8L3NjcmlwdG5h
+bWU+DQo8YXBwbmFtZT5QaXp6YSBDbGlja2VyPC9hcHBuYW1lPg0KPGh0bWxhcHBs
+aWNhdGlvbmJsb2NrPnNjcmlwdCZndDs8L2h0bWxhcHBsaWNhdGlvbmJsb2NrPg0K
+PG9sZGh0YWJsb2NrPnNjcmlwdCZndDs8L29sZGh0YWJsb2NrPg0KPHBpZD5aQTdQ
+VjlNNnp4SW5qU2FpSGd6ZnlpcmQyUDdNdTBZQllOZ05OSWR4SkxVNDZXY1lKMk5t
+VVNqa3J0SmhmczFxPC9waWQ+DQo8L3Jvb3Q+DQoA
+END_VBSEDIT_DATA-->
